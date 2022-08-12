@@ -1,2 +1,2 @@
-# Freelance-Gigs
-This is a collection of some of the projects I had executed on fiverr, and it also serve as a repo to code samples used in my articles.
+
+This is a collection of some of the mini projects I had executed on fiverr as well as a repo to code samples used in my articles.
